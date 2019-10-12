@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\DrawScene.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\GetPosition.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\GlFunctions.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\SetCamera.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\SceneCache.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\SceneContext.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\DrawText.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\targa.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\Common\Common.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\DrawScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\GetPosition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\GlFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\SetCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\SceneCache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\SceneContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\DrawText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\targa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\Common\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7198FA46-4B2F-31D5-B58A-C11DD519E8D9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5AE401F2-0229-3585-9962-8D5784323F64}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

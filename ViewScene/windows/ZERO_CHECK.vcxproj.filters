@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ViewScene\windows\CMakeFiles\379bfc7058d8e3cdd2da3065d54b86f5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B442BBBE-6E6C-3C7F-9B12-E31600B09CB9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
