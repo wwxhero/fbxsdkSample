@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayAnimation.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayCache.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayCamera.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayCommon.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayGenericInfo.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayGlobalSettings.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayHierarchy.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayLight.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayLink.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayMarker.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayMaterial.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayMesh.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayNurb.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayPatch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayLodGroup.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayPivotsAndLimits.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayPose.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayShape.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplaySkeleton.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayTexture.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayUserProperties.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\Common\Common.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayAnimation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayCache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayGenericInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayGlobalSettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayHierarchy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayLink.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayMarker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayNurb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayPatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayLodGroup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayPivotsAndLimits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayPose.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplaySkeleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\DisplayUserProperties.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\Common\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Autodesk\FBX\FBX SDK\2019.5\samples\ImportScene\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DEC0055B-CBF3-37C1-AAD5-92D9C23BC261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{868B6A45-3300-3048-A482-CC1F9503A30D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
